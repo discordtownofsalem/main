@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### What is town of salem?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Town of salem, also known as mafia or werewolf is a party game created by Dmitry Davidoff in 1986 in which two groups face a conflict the mafia`#f03c15`
 
 ```markdown
 Syntax highlighted code block
