@@ -29,8 +29,8 @@ li a:hover {
 <body>
 
 <ul>
-  <li><a class="active" href="main">Home</a></li>
-  <li><a href="main/page-2">News</a></li>
+  <li><a class="active" href="">Home</a></li>
+  <li><a href="page-2">News</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
 </ul>
