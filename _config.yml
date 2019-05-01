@@ -3,7 +3,7 @@ title: Main
 timezone: UTC
 collections:
   posts:
-    title: Posts
+    title: page-2
     output: true
   uploads:
     title: Uploads
