@@ -85,7 +85,6 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
   <img src="https://discordtownofsalem.github.io/main/images/consul.png" id="boat" width = "30">
 
   <script>
-    boat.onclick = function() {
 
       this.onclick = null; // only the first click should start the animation
 
@@ -108,7 +107,6 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
         times++;
         go();
       });
-    }
   </script>
 
 
@@ -117,12 +115,15 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
 </html>
 
 
-### Jekyll Themes
+### Ideal Jobs
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/discordtownofsalem/main/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Cameron’s ideal job is a Polyglot Software Engineer in a small team at a small company.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Si Han’s ideal job is a being a Software Engineer in a cybersecurity company that works with large scale projects from governments and commercial customers. 
 
-<a href="https://discordtownofsalem.github.io/main/page-2">Page 2</a>
+Nik’s ideal job is becoming a software engineer at a large corporation, working in a team based environment would be ideal conditions. A job application he found online is at fintech which requires employees to be forward thinking and have the ability to problem solve and think outside of the box. Salary isn’t a main concern for him, rather having enough spare time and enjoying the job is what matters more.
+
+Jayden’s idea job is to be a software engineer as a configuration specialist for a small or large company that create softwares that expected to run for a long period of time. 
+
+
