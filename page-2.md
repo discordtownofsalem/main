@@ -47,29 +47,11 @@ All the team members from Discord Town of Salem’s ideal job is software engine
 
 
 
-### What is town of salem?
+### The teams combined job
 
-Town of salem, also known as mafia or werewolf is a party game created by Dmitry Davidoff in 1986 in which two groups face a conflict the mafia and the innocents. The players are secretly given a role affiliated with one of the teams. The innocents have no idea who has been assigned as the mafia. The mafia's goal is to kill all innocents with 
+The most important generic skill that is required by the whole group’s ideal jobs is communication. Every job requires the employee to communicate with either the team they are working in or their customers. Communication is crucial between team members because it can benefit the group in many ways. Effective communication allows the team members to understand what their position and roles are in the group and also the roles of other team members. Teams that lack communication can potentially waste energy and time doing work that is unnecessary. This could also cause conflict and problems within the group and waste even more time. Teamwork is a general skill that is essential to being a software engineer. Software engineers are often required to work in a team to tackle a project, having good teamwork can benefit the team in similar ways communication can benefit the team. Problem solving is also important for the group as that is essentially what a software engineer does, developing solutions to a customer’s problem. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll
 
