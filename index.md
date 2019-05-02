@@ -82,52 +82,18 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
 
 <body>
 
-  <img src="https://discordtownofsalem.github.io/main/images/consul.png" id="consul" width = "50">
-  <img src="https://discordtownofsalem.github.io/main/images/architect.png" id="architect" width = "50">
-
-  <script>
-
-      this.onclick = null; // only the first click should start the animation
-
-      let times = 1;
-
-      function go() {
-        if (times % 2) {
-          consul.classList.remove('back');
-          consul.style.marginLeft = 100 + 200 + 'px';
-        } else {
-          consul.classList.add('back');
-          consul.style.marginLeft = 100 - 200 + 'px';
-        }
-
-      }
-
-		go();	
-
-      function go2() {
-        if (times % 2) {
-          architect.classList.remove('back');
-          architect.style.marginLeft = 175 + 200 + 'px';
-        } else {
-          architect.classList.add('back');
-          architect.style.marginLeft = 175 - 200 + 'px';
-        }
-
-      }
-
-      go2();
-
-
-      consul.addEventListener('transitionend', function() {
-	  times++;
-        go();
-      });
-      architect.addEventListener('transitionend', function() {
-        times++;
-        go2();
-      });
-  </script>
-
+ <div id="cf7" class="shadow">
+  <img class='opaque' src="https://discordtownofsalem.github.io/main/images/consul.png" />
+  <img src="https://discordtownofsalem.github.io/main/images/architect.png" />
+  <img src="/images/Rainbow%20Worm.jpg;" />
+  <img src="/images/Birdman.jpg;" />
+</div>
+<p id="cf7_controls">
+  <span class="selected">Image 1</span>
+  <span>Image 2</span>
+  <span>Image 3</span>
+  <span>Image 4</span>
+</p>
 
 </body>
 
