@@ -62,23 +62,6 @@ Cameron’s Myers-Briggs personality profile is that on an Architect (INTJ-A), h
 According to the Myers-Briggs personality profile Si Han’s personality type is Virtuoso (ISTP-T). His Big 5 Personality test results were 
 
 <html>
-<style>
-#boat {
-  margin-left: 0;
-  cursor: pointer;
-  transition: margin-left 3s ease-in-out;
-}
-
-/* flipping the picture with CSS */
-.back {
-  transform: scaleX(-1);
-  filter: fliph;
-}
-</style>
-<head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="style.css">
-</head>
 
 <body>
 
