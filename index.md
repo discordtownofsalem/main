@@ -57,7 +57,7 @@ Nikolas Grubits (s3786116) is a 18 year old, with have two brothers one older an
 According to the personality types Jayden is a Consul which means delegating him to team 
 Nik’s type is a meditator which means in a teamwork environment he helps keep up moral and encourage people to reach their potential.  Using the personality test to determine each person's role in a team is not the most accurate way of assigning roles, it can help take some of the guesswork when assigning people to roles. 
 
-Cameron’s Myers-Briggs personality profile is that on an Architect (INTJ-A), his learning style is Visual, and his Big 5 Personality Test results returned 29% extroversion, 94% emotional stability, 35% agreeableness, 80% conscientiousness, and 76% Intellect/Imagination. These test results would indicate that he has a strong creative drive and conviction, which means he will be good at taking the lead in putting forward ideas, which can help give direction to the team. He will need to ensure he doesn’t push too hard and doesn’t interfere when other members of the group want to influence its direction. [CvR]
+Cameron’s Myers-Briggs personality profile is that on an Architect (INTJ-A), his learning style is Visual, and his Big 5 Personality Test results returned 29% extroversion, 94% emotional stability, 35% agreeableness, 80% conscientiousness, and 76% Intellect/Imagination. These test results would indicate that he has a strong creative drive and conviction, which means he will be good at taking the lead in putting forward ideas, which can help give direction to the team. He will need to ensure he doesn’t push too hard and doesn’t interfere when other members of the group want to influence its direction.
 
 According to the Myers-Briggs personality profile Si Han’s personality type is Virtuoso (ISTP-T). His Big 5 Personality test results were 
 
@@ -86,8 +86,8 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
   
   <div class="mySlides fade">
     <div class="numbertext">4 / 4</div>
-    <img src="https://discordtownofsalem.github.io/main/images/consul.png" style="width:200>
-    <div class="text">Caption Three</div>
+    <img src="https://discordtownofsalem.github.io/main/images/consul.png" style="width:200">
+    <div class="text">Caption Four</div>
   </div>
 
   <!-- Next and previous buttons -->
