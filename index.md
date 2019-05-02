@@ -67,25 +67,25 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <div class="numbertext">1 / 3</div>
+    <div class="numbertext">1 / 4</div>
     <img src="https://discordtownofsalem.github.io/main/images/architect.png" style="width:200">
     <div class="text">Caption Text</div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">2 / 3</div>
+    <div class="numbertext">2 / 4</div>
     <img src="https://discordtownofsalem.github.io/main/images/meditator.png" style="width:200">
     <div class="text">Caption Two</div>
   </div>
 
   <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
+    <div class="numbertext">3 / 4</div>
     <img src="https://discordtownofsalem.github.io/main/images/consul.png" style="width:200">
     <div class="text">Caption Three</div>
   </div>
   
   <div class="mySlides fade">
-    <div class="numbertext">3 / 3</div>
+    <div class="numbertext">4 / 4</div>
     <img src="https://discordtownofsalem.github.io/main/images/consul.png" style="width:200>
     <div class="text">Caption Three</div>
   </div>
@@ -157,7 +157,7 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
   text-align: center;
 }
 
-/* Number text (1/3 etc) */
+/* Number text (1/4 etc) */
 .numbertext {
   color: #f2f2f2;
   font-size: 12px;
