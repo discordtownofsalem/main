@@ -41,41 +41,14 @@ li a:hover {
 
 
 
-## Town of Salem Bot
-
-You can use the [editor on GitHub](https://github.com/discordtownofsalem/main/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### What is town of salem?
-
-Town of salem, also known as mafia or werewolf is a party game created by Dmitry Davidoff in 1986 in which two groups face a conflict the mafia and the innocents. The players are secretly given a role affiliated with one of the teams. The innocents have no idea who has been assigned as the mafia. The mafia's goal is to kill all innocents with 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/discordtownofsalem/main/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Raspberry Pis, Arduinos, Makey Makeys and other small computing devices:
+These devices are micro computers that are inexpensive and widely available. Arduinos are the most
+Barebone out of all these devices they are designed to support modules to add to the device, these are
+Called shields. Raspberry pi’s have a bit more to them, they come with these additions preinstalled on
+Them (however this depends on the type of device you buy).This allows you to run an operating system
+on one of them. These devices are designed for hobbyist who want a simple introduction to tinkering with
+The hardware and changing and writing code for them to run. Some of the most common projects that are 
+Made on arduinos is simple LED setups where people code lights in certain ways, whether this is used
+To indicate something or just for decoration. A common project for raspberry pi’s is a simple file server
+Or any other server which doesn't require a lot of ram or processing power; such as a website. These devices make great educational tools.
 
