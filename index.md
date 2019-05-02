@@ -42,7 +42,7 @@ li a:hover {
 
 ## About the team
 
-Cameron van Roon (s3382032) is a 25-year-old novelist and international dodgeball coach from Geelong now studying computing studies at RMIT University. With minimal experience in IT, but motivated by passions for gaming, futurism and gadgetry, he joined the Discord Town of Salem group to work on a project in a field he loves and tackle new and unique programming challenges.[CvR]
+Cameron van Roon (s3382032) is a 25-year-old novelist and international dodgeball coach from Geelong now studying computing studies at RMIT University. With minimal experience in IT, but motivated by passions for gaming, futurism and gadgetry, he joined the Discord Town of Salem group to work on a project in a field he loves and tackle new and unique programming challenges.
 
 Sue Si Han (s3743694) is an 18 year old Malaysian that is currently studying Information Technology at RMIT. His hobbies are playing and listening to music and also gaming. Si Han’s interests in IT started when he was young and got to interact with computers. He decided to join Discord Town of Salem since it’s based on a program that many people like himself that game uses to chat with other gamers. 
 
@@ -52,29 +52,59 @@ Jayden Dang (s3781022) is a 18 year old Vietnamese that is a first year universi
 Nikolas Grubits (s3786116) is a 18 year old, with have two brothers one older and the other younger. They’ve been in Melbourne their entire life. Although he comes from Australia and was born here he’s father is Hungarian. He currently has a part time job working at our local pizza shop. He’s always enjoying tinkering with technology and uncovering every little bit of information he can.
 
 
-### What is town of salem?
+### Our personalities 
 
-Town of salem, also known as mafia or werewolf is a party game created by Dmitry Davidoff in 1986 in which two groups face a conflict the mafia and the innocents. The players are secretly given a role affiliated with one of the teams. The innocents have no idea who has been assigned as the mafia. The mafia's goal is to kill all innocents with 
+According to the personality types Jayden is a Consul which means delegating him to team 
+Nik’s type is a meditator which means in a teamwork environment he helps keep up moral and encourage people to reach their potential.  Using the personality test to determine each person's role in a team is not the most accurate way of assigning roles, it can help take some of the guesswork when assigning people to roles. 
 
-```markdown
-Syntax highlighted code block
+Cameron’s Myers-Briggs personality profile is that on an Architect (INTJ-A), his learning style is Visual, and his Big 5 Personality Test results returned 29% extroversion, 94% emotional stability, 35% agreeableness, 80% conscientiousness, and 76% Intellect/Imagination. These test results would indicate that he has a strong creative drive and conviction, which means he will be good at taking the lead in putting forward ideas, which can help give direction to the team. He will need to ensure he doesn’t push too hard and doesn’t interfere when other members of the group want to influence its direction. [CvR]
 
-# Header 1
-## Header 2
-### Header 3
+According to the Myers-Briggs personality profile Si Han’s personality type is Virtuoso (ISTP-T). His Big 5 Personality test results were 
 
-- Bulleted
-- List
+<!DOCTYPE html>
+<html>
 
-1. Numbered
-2. List
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css">
+</head>
 
-**Bold** and _Italic_ and `Code` text
+<body>
 
-[Link](url) and ![Image](src)
-```
+  <img src="https://js.cx/clipart/boat.png" id="boat">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  <script>
+    boat.onclick = function() {
+
+      this.onclick = null; // only the first click should start the animation
+
+      let times = 1;
+
+      function go() {
+        if (times % 2) {
+          boat.classList.remove('back');
+          boat.style.marginLeft = 100 * times + 200 + 'px';
+        } else {
+          boat.classList.add('back');
+          boat.style.marginLeft = 100 * times - 200 + 'px';
+        }
+
+      }
+
+      go();
+
+      boat.addEventListener('transitionend', function() {
+        times++;
+        go();
+      });
+    }
+  </script>
+
+
+</body>
+
+</html>
+
 
 ### Jekyll Themes
 
