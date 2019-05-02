@@ -113,8 +113,6 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
 
       this.onclick = null; // only the first click should start the animation
 
-      let times = 1;
-
       function go() {
         if (times % 2) {
           architect.classList.remove('back');
