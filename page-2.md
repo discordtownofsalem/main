@@ -41,11 +41,11 @@ li a:hover {
 
 
 
-## Town of Salem Bot
+## The teams ideal jobs
 
-You can use the [editor on GitHub](https://github.com/discordtownofsalem/main/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+All the team members from Discord Town of Salem’s ideal job is software engineer but in different fields. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### What is town of salem?
 

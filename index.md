@@ -66,10 +66,10 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
 <body>
 
  <div id="cf7" class="shadow">
-  <img class='opaque' src="https://discordtownofsalem.github.io/main/images/consul.png" />
+  <img class='opaque' src="https://discordtownofsalem.github.io/main/images/consul.png" width = "200"/>
+  <img src="https://discordtownofsalem.github.io/main/images/architect.png" width = "200"/>
+  <img src="https://discordtownofsalem.github.io/main/images/meditator.png" />
   <img src="https://discordtownofsalem.github.io/main/images/architect.png" />
-  <img src="/images/Rainbow%20Worm.jpg;" />
-  <img src="/images/Birdman.jpg;" />
 </div>
 <p id="cf7_controls">
   <span class="selected">Image 1</span>
