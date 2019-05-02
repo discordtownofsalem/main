@@ -14,7 +14,42 @@
 
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
 
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
 
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
+<body>
+
+<ul>
+  <li><a href="index">Home</a></li>
+  <li><a href="page-2">Industry Data</a></li>
+  <li><a href="page-3">IT Work</a></li>
+  <li><a href="page-4">IT Technologies</a></li>
+  <li><a href="page-5">Project ideas</a></li>
+</ul>
+
+</body>
 
     <!--[if lt IE 9]>
 
@@ -100,7 +135,7 @@
 
           {% if site.github.is_project_page %}
 
-            <p class="repo-owner"><a href="{{ site.github.repository_url }}">"Town of Salem bot</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
+            <p class="repo-owner"><a href="{{ site.github.repository_url }}">Town of Salem bot</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
 
           {% endif %}
 
