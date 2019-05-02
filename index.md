@@ -124,7 +124,7 @@ $(document).ready(function() {
     $(this).addClass("selected");
   });
 });
-</script language="javascript"> 
+</script> 
 </html>
 
 
