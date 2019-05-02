@@ -79,6 +79,52 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
 </p>
 
 </body>
+<style>
+p#cf7_controls {
+  text-align:center;
+}
+#cf7_controls span {
+  padding-right:2em;
+  cursor:pointer;
+}
+#cf7 {
+  position:relative;
+  height:281px;
+  width:450px;
+  margin:0 auto 10px;
+}
+#cf7 img {
+  position:absolute;
+  left:0;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+  opacity:0;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: alpha(opacity=0);
+}
+
+#cf7 img.opaque {
+  opacity:1;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  filter: alpha(opacity=1);
+}
+</style>
+<js>
+$(document).ready(function() {
+  $("#cf7_controls").on('click', 'span', function() {
+    $("#cf7 img").removeClass("opaque");
+
+    var newImage = $(this).index();
+
+    $("#cf7 img").eq(newImage).addClass("opaque");
+
+    $("#cf7_controls span").removeClass("selected");
+    $(this).addClass("selected");
+  });
+});
+</js>
 
 </html>
 
