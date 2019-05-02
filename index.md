@@ -62,69 +62,40 @@ Cameron’s Myers-Briggs personality profile is that on an Architect (INTJ-A), h
 According to the Myers-Briggs personality profile Si Han’s personality type is Virtuoso (ISTP-T). His Big 5 Personality test results were 
 
 <html>
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
 
-<body>
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="https://discordtownofsalem.github.io/main/images/consul.png" alt="Los Angeles">
+    </div>
 
- <div id="cf7" class="shadow">
-  <img class='opaque' src="https://discordtownofsalem.github.io/main/images/consul.png" width = "200"/>
-  <img src="https://discordtownofsalem.github.io/main/images/architect.png" width = "200"/>
-  <img src="https://discordtownofsalem.github.io/main/images/meditator.png" />
-  <img src="https://discordtownofsalem.github.io/main/images/architect.png" />
+    <div class="item">
+      <img src="https://discordtownofsalem.github.io/main/images/meditator.png" alt="Chicago">
+    </div>
+
+    <div class="item">
+      <img src="https://discordtownofsalem.github.io/main/images/architect.png" alt="New York">
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
-<p id="cf7_controls">
-  <span class="selected">Image 1</span>
-  <span>Image 2</span>
-  <span>Image 3</span>
-  <span>Image 4</span>
-</p>
 
-</body>
-<style>
-p#cf7_controls {
-  text-align:center;
-}
-#cf7_controls span {
-  padding-right:2em;
-  cursor:pointer;
-}
-#cf7 {
-  position:relative;
-  height:281px;
-  width:450px;
-  margin:0 auto 10px;
-}
-#cf7 img {
-  position:absolute;
-  left:0;
-  -webkit-transition: opacity 1s ease-in-out;
-  -moz-transition: opacity 1s ease-in-out;
-  -o-transition: opacity 1s ease-in-out;
-  transition: opacity 1s ease-in-out;
-  opacity:0;
-  -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-  filter: alpha(opacity=0);
-}
-
-#cf7 img.opaque {
-  opacity:1;
-  -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-  filter: alpha(opacity=1);
-}
-</style>
-<script language="javascript"> 
-$(document).ready(function() {
-  $("#cf7_controls").on('click', 'span', function() {
-    $("#cf7 img").removeClass("opaque");
-
-    var newImage = $(this).index();
-
-    $("#cf7 img").eq(newImage).addClass("opaque");
-
-    $("#cf7_controls span").removeClass("selected");
-    $(this).addClass("selected");
-  });
-});
-</script> 
 </html>
 
 
