@@ -40,11 +40,17 @@ li a:hover {
 </html>
 
 
-## Town of Salem Bot
+## About the team
 
-You can use the [editor on GitHub](https://github.com/discordtownofsalem/main/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Cameron van Roon (s3382032) is a 25-year-old novelist and international dodgeball coach from Geelong now studying computing studies at RMIT University. With minimal experience in IT, but motivated by passions for gaming, futurism and gadgetry, he joined the Discord Town of Salem group to work on a project in a field he loves and tackle new and unique programming challenges.[CvR]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sue Si Han (s3743694) is an 18 year old Malaysian that is currently studying Information Technology at RMIT. His hobbies are playing and listening to music and also gaming. Si Han’s interests in IT started when he was young and got to interact with computers. He decided to join Discord Town of Salem since it’s based on a program that many people like himself that game uses to chat with other gamers. 
+
+
+Jayden Dang (s3781022) is a 18 year old Vietnamese that is a first year university student studying Information Technology at RMIT. He enjoys going to the gym and going out with friends. He joined the discord town of salem group to work on a project that is required as an assignment for his course. 
+
+Nikolas Grubits (s3786116) is a 18 year old, with have two brothers one older and the other younger. They’ve been in Melbourne their entire life. Although he comes from Australia and was born here he’s father is Hungarian. He currently has a part time job working at our local pizza shop. He’s always enjoying tinkering with technology and uncovering every little bit of information he can.
+
 
 ### What is town of salem?
 
