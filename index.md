@@ -94,10 +94,10 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
       function go() {
         if (times % 2) {
           boat.classList.remove('back');
-          boat.style.marginLeft = 100 * times + 200 + 'px';
+          boat.style.marginLeft = 100 + 200 + 'px';
         } else {
           boat.classList.add('back');
-          boat.style.marginLeft = 100 * times - 200 + 'px';
+          boat.style.marginLeft = 100 - 200 + 'px';
         }
 
       }
