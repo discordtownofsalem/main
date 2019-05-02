@@ -82,7 +82,8 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
 
 <body>
 
-  <img src="https://discordtownofsalem.github.io/main/images/consul.png" id="boat" width = "30">
+  <img src="https://discordtownofsalem.github.io/main/images/consul.png" id="consul" width = "30">
+  <img src="https://discordtownofsalem.github.io/main/images/architect.png" id="architect" width = "30">
 
   <script>
 
@@ -92,18 +93,42 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
 
       function go() {
         if (times % 2) {
-          boat.classList.remove('back');
-          boat.style.marginLeft = 100 + 200 + 'px';
+          consul.classList.remove('back');
+          consul.style.marginLeft = 100 + 200 + 'px';
         } else {
-          boat.classList.add('back');
-          boat.style.marginLeft = 100 - 200 + 'px';
+          consul.classList.add('back');
+          consul.style.marginLeft = 100 - 200 + 'px';
         }
 
       }
 
       go();
 
-      boat.addEventListener('transitionend', function() {
+      consul.addEventListener('transitionend', function() {
+        times++;
+        go();
+      });
+  </script>
+  <script>
+
+      this.onclick = null; // only the first click should start the animation
+
+      let times = 1;
+
+      function go() {
+        if (times % 2) {
+          architect.classList.remove('back');
+          architect.style.marginLeft = 150 + 200 + 'px';
+        } else {
+          architect.classList.add('back');
+          architect.style.marginLeft = 150 - 200 + 'px';
+        }
+
+      }
+
+      go();
+
+      architect.addEventListener('transitionend', function() {
         times++;
         go();
       });
