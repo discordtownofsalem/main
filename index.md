@@ -111,7 +111,7 @@ p#cf7_controls {
   filter: alpha(opacity=1);
 }
 </style>
-<js>
+<script language="javascript"> 
 $(document).ready(function() {
   $("#cf7_controls").on('click', 'span', function() {
     $("#cf7 img").removeClass("opaque");
@@ -124,8 +124,7 @@ $(document).ready(function() {
     $(this).addClass("selected");
   });
 });
-</js>
-
+</script language="javascript"> 
 </html>
 
 
