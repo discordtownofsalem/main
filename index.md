@@ -82,8 +82,8 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
 
 <body>
 
-  <img src="https://discordtownofsalem.github.io/main/images/consul.png" id="consul" width = "30">
-  <img src="https://discordtownofsalem.github.io/main/images/architect.png" id="architect" width = "30">
+  <img src="https://discordtownofsalem.github.io/main/images/consul.png" id="consul" width = "50">
+  <img src="https://discordtownofsalem.github.io/main/images/architect.png" id="architect" width = "50">
 
   <script>
 
