@@ -82,7 +82,7 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
 
 <body>
 
-  <img src="https://js.cx/clipart/boat.png" id="boat">
+  <img src="/images/consul.svg" id="boat">
 
   <script>
     boat.onclick = function() {
