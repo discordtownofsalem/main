@@ -102,9 +102,9 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
 
       }
 
+		go();	
 
-
-      function go() {
+      function go2() {
         if (times % 2) {
           architect.classList.remove('back');
           architect.style.marginLeft = 175 + 200 + 'px';
@@ -115,7 +115,7 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
 
       }
 
-      go();
+      go2();
 
 
       consul.addEventListener('transitionend', function() {
@@ -124,7 +124,7 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
       });
       architect.addEventListener('transitionend', function() {
         times++;
-        go();
+        go2();
       });
   </script>
 
