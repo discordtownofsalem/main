@@ -29,7 +29,7 @@ li a:hover {
 <body>
 
 <ul>
-  <li><a class="index" href="">Home</a></li>
+  <li><a href="index">Home</a></li>
   <li><a href="page-2">Industry Data</a></li>
   <li><a href="page-3">IT Work</a></li>
   <li><a href="page-4">IT Technologies</a></li>
