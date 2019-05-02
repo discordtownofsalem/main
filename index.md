@@ -74,19 +74,19 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="https://discordtownofsalem.github.io/main/images/meditator.png" style="width:100%">
+    <img src="https://discordtownofsalem.github.io/main/images/meditator.png" style="width:200">
     <div class="text">Caption Two</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="https://discordtownofsalem.github.io/main/images/consul.png" style="width:100%">
+    <img src="https://discordtownofsalem.github.io/main/images/consul.png" style="width:200">
     <div class="text">Caption Three</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">3 / 3</div>
-    <img src="https://discordtownofsalem.github.io/main/images/consul.png" style="width:100%">
+    <img src="https://discordtownofsalem.github.io/main/images/consul.png" style="width:200>
     <div class="text">Caption Three</div>
   </div>
 
