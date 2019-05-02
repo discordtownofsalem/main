@@ -103,14 +103,6 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
       }
 
 
-      consul.addEventListener('transitionend', function() {
-        times++;
-        go();
-      });
-  </script>
-  <script>
-
-      this.onclick = null; // only the first click should start the animation
 
       function go() {
         if (times % 2) {
@@ -125,6 +117,11 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
 
       go();
 
+
+      consul.addEventListener('transitionend', function() {
+	  times++;
+        go();
+      });
       architect.addEventListener('transitionend', function() {
         times++;
         go();
