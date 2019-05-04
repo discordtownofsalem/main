@@ -10,7 +10,7 @@ To indicate something or just for decoration. A common project for raspberry piâ
 Or any other server which doesn't require a lot of ram or processing power; such as a website. These devices make great educational tools.
 <image src ="https://discordtownofsalem.github.io/main/images/arduino.png" style="width:200">
 
-###Clouds services, servers
+### Cloud services and servers:
 Cloud services and servers are becoming increasingly popular with the rise of a more consistent connection
 And a larger download size. This is because previously most data stored was locally, on the hard drive of
 The computer, software would be shared around via disk, websites were extremely limited to the amount
