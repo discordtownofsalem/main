@@ -38,7 +38,7 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
   <div class="mySlides fade">
     <div class="numbertext">3 / 4</div>
     <img src="https://discordtownofsalem.github.io/main/images/consul.png" style="width:200">
-    <div class="text"><font color="black">Jayden - Consul<font></div>
+    <div class="text"><font color="black">Jayden - Consul</font></div>
   </div>
   
   <div class="mySlides fade">
