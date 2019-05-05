@@ -18,3 +18,4 @@ A: Everyday is literally different, he does a different job depending on the pro
 8. Which aspects of your work do you find most challenging?
 A: System certificate expires on the firewall thus causing all users to be prompted with a security alert on their machines. Most difficult as it takes a lot of time to find the issue.
 9. Finally, can you share an example of the work you do that best captures the essence of the IT industry?
+![Work Desk](/main/images/work-desk.png)
