@@ -10,7 +10,7 @@ To indicate something or just for decoration. A common project for raspberry piâ
 Or any other server which doesn't require a lot of ram or processing power; such as a website. 
 These devices make great educational tools.
 
-![Arduino Board](/images/arduino.png)
+![Arduino Board](/main/images/arduino.png)
 
 
 ### Cloud services and servers:

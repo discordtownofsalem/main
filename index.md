@@ -20,32 +20,31 @@ Cameron’s Myers-Briggs personality profile is that on an Architect (INTJ-A), h
 According to the Myers-Briggs personality profile Si Han’s personality type is Virtuoso (ISTP-T). His Big 5 Personality test results were 
 
 <html>
-<!-- Slideshow container -->
 <div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <div class="numbertext">1 / 4</div>
     <img src="https://discordtownofsalem.github.io/main/images/architect.png" style="width:200">
-    <div class="text">Caption Text</div>
+    <div class="text">Cameron - Architect</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 4</div>
     <img src="https://discordtownofsalem.github.io/main/images/meditator.png" style="width:200">
-    <div class="text">Caption Two</div>
+    <div class="text">Nik - Meditator</div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 4</div>
     <img src="https://discordtownofsalem.github.io/main/images/consul.png" style="width:200">
-    <div class="text">Caption Three</div>
+    <div class="text">Jayden - Consul</div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">4 / 4</div>
-    <img src="https://discordtownofsalem.github.io/main/images/consul.png" style="width:200">
-    <div class="text">Caption Four</div>
+    <img src="https://discordtownofsalem.github.io/main/images/virtuoso.png" style="width:200">
+    <div class="text">Si Han - Virtuoso</div>
   </div>
 
   <!-- Next and previous buttons -->
