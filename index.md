@@ -26,7 +26,7 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
   <div class="mySlides fade">
     <div class="numbertext">1 / 4</div>
     <img src="https://discordtownofsalem.github.io/main/images/architect.png" style="width:200">
-    <div class="text">Cameron - Architect</div>
+  <div class="text"><font color="red">Cameron - Architect</font></div>
   </div>
 
   <div class="mySlides fade">
