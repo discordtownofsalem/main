@@ -26,25 +26,25 @@ According to the Myers-Briggs personality profile Si Han’s personality type is
   <div class="mySlides fade">
     <div class="numbertext">1 / 4</div>
     <img src="https://discordtownofsalem.github.io/main/images/architect.png" style="width:200">
-  <div class="text"><font color="red">Cameron - Architect</font></div>
+  <div class="text"><font color="black">Cameron - Architect</font></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 4</div>
     <img src="https://discordtownofsalem.github.io/main/images/meditator.png" style="width:200">
-    <div class="text">Nik - Meditator</div>
+  <div class="text"><font color="black">Nik - Meditator</font></div>
   </div>
 
   <div class="mySlides fade">
     <div class="numbertext">3 / 4</div>
     <img src="https://discordtownofsalem.github.io/main/images/consul.png" style="width:200">
-    <div class="text">Jayden - Consul</div>
+    <div class="text"><font color="black">Jayden - Consul<font></div>
   </div>
   
   <div class="mySlides fade">
     <div class="numbertext">4 / 4</div>
     <img src="https://discordtownofsalem.github.io/main/images/virtuoso.png" style="width:200">
-    <div class="text">Si Han - Virtuoso</div>
+  <div class="text"><font color="black">Si Han - Virtuoso</font></div>
   </div>
 
   <!-- Next and previous buttons -->
