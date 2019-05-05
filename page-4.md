@@ -9,7 +9,10 @@ Made on arduinos is simple LED setups where people code lights in certain ways, 
 To indicate something or just for decoration. A common project for raspberry pi’s is a simple file server
 Or any other server which doesn't require a lot of ram or processing power; such as a website. 
 These devices make great educational tools.
+<html>
 <image src ="https://discordtownofsalem.github.io/main/images/arduino.png" style="width:200">
+</html>
+
 
 ### Cloud services and servers:
 Cloud services and servers are becoming increasingly popular with the rise of a more consistent connection
