@@ -24,10 +24,10 @@ Upon beginning a game, if using this as a starting feature, the bot would need t
 After that, it would need to determine which users in the server will be participating in the game and add them to an array.
 Then, the game will need to randomly assign roles to each of the players and store their role data to determine their allegiance and abilities.
 Some starting example roles are:
-- The Doctor, who is capable of choosing one person per night they wish to prevent from dying.
-- The Sheriff, who can choose someone to investigate at night, and thus determine if they are either a mafioso or a member of the townsfolk.
-- The Framer, who, at night, can choose to make anyone appear guilty to the Sheriff.
-- The Jester, whose has no allegiance but instead has the goal of trying to get themselves lynched.
+1. The Doctor, who is capable of choosing one person per night they wish to prevent from dying.
+2. The Sheriff, who can choose someone to investigate at night, and thus determine if they are either a mafioso or a member of the townsfolk.
+3. The Framer, who, at night, can choose to make anyone appear guilty to the Sheriff.
+4. The Jester, whose has no allegiance but instead has the goal of trying to get themselves lynched.
 The bot should be able to implement these features through private message and public posts to the server as the players vote and/or communicate the actions they wish to take.
 As private messaging is an existing feature on discord, it will allow players to both interact with the bot as well as covertly discuss the game with one another, thus enhancing the subterfuge inherent in the game’s concept.
 If a player is either hanged or killed by the mafia, the game will be able mute them in the discord channel so that they cannot publicly interact with the game.
