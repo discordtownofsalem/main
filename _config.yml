@@ -9,3 +9,5 @@ collections:
     title: Uploads
     output: true
 theme: jekyll-theme-architect
+baseurl: "/main" 
+url: "https://discordtownofsalem.github.io/main"
