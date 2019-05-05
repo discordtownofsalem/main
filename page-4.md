@@ -27,7 +27,7 @@ Compute something from a underpowered pc.
 
 ### Machine Learning:
 Machine learning is a type of Artificial Intelligence characterised by its ability to learn from data rather than explicit programming (Ibm.com, 2019).
-There are a variety of methods through which this is achieved. Typically, they involve an algorithm being given a set of guiding principles to aim towards,f
+There are a variety of methods through which this is achieved. Typically, they involve an algorithm being given a set of guiding principles to aim towards,ff
 such as conditions for winning in a game such as Go (Gibney, 2016) and given sample or training data which the algorithm can analyse to predict a best course of action (Ibm.com, 2019).
 The strength of the approach comes from the sheer volume of data that the powerful machines used in machine learning are capable of analysing. Before AlphaGo, Google’s artificial intelligence used to play Go, ever played a game, it first studied thirty million go positions from human games(Gibney, 2016). Of course, it doesn’t just analyse data once, but continuously. After analysing the initial training data, AlphaGo improved by playing itself, over and over again (Gibney, 2016).
  
